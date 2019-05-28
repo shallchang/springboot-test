@@ -1,5 +1,6 @@
 package document;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
 
@@ -8,7 +9,7 @@ import javax.validation.constraints.Size;
 import java.util.ArrayList;
 
 @Data
-@RequiredArgsConstructor
+@AllArgsConstructor
 public class RoboticCleanerResponseDocument {
 
     @NotNull

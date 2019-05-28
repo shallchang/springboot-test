@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.CleanOilPatchServiceImplTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-05-28T16:44:04" hostname="Xiaohans-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="should_throw_illegalArgumentException" classname="service.CleanOilPatchServiceImplTest" time="0.0"/>
+  <testcase name="test_robot_outside_boundary" classname="service.CleanOilPatchServiceImplTest" time="0.0"/>
+  <testcase name="test_valid_task" classname="service.CleanOilPatchServiceImplTest" time="0.001"/>
+  <testcase name="test_revisit_oil_patch" classname="service.CleanOilPatchServiceImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
