@@ -1,0 +1,169 @@
+{
+	"info": {
+		"_postman_id": "e8623c9f-2a34-42b6-b027-87ae570566c6",
+		"name": "marshmallow",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Sample Input",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"areaSize\" : [5, 5],\n  \"startingPosition\" : [1, 2],\n  \"oilPatches\" : [\n    [1, 0],\n    [2, 2],\n    [2, 3]\n  ],\n  \"navigationInstructions\" : \"NNESEESWNWW\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "areaSize",
+							"value": "abc",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Revisit Oil Patch Location",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"areaSize\" : [3, 3],\n  \"startingPosition\" : [1, 1],\n  \"oilPatches\" : [\n    [1, 2],\n    [2, 2]\n  ],\n  \"navigationInstructions\" : \"NESWNESWNESW\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "areaSize",
+							"value": "abc",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Robot Outside Boundary",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"areaSize\" : [3, 3],\n  \"startingPosition\" : [1, 1],\n  \"oilPatches\" : [\n    [1, 2],\n    [2, 2]\n  ],\n  \"navigationInstructions\" : \"NNNNN\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "areaSize",
+							"value": "abc",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Invalid Navigation Instruction",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"areaSize\" : [3, 3],\n  \"startingPosition\" : [1, 1],\n  \"oilPatches\" : [\n    [1, 2],\n    [2, 2]\n  ],\n  \"navigationInstructions\" : \"NASW\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						""
+					],
+					"query": [
+						{
+							"key": "areaSize",
+							"value": "abc",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -35,7 +35,7 @@ public class CleanOilPatchServiceImpl implements CleanOilPatchService {
                 throw new IllegalArgumentException("Invalid navigation instruction passed!");
             }
 
-            if (x_axis == max_x_axis || y_axis == max_y_axis){
+            if (x_axis == max_x_axis || y_axis == max_y_axis || x_axis < 0 || y_axis < 0){
                 throw new RobotOutBoundaryException("Robot cannot be navigated outside of boundary!");
             }
 

@@ -2,8 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f08907fc-dd45-4a3f-a511-2def7ba54f9c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/controller/RoboticCleanerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/controller/RoboticCleanerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/document/RoboticCleanerRequestDocument.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/document/RoboticCleanerRequestDocument.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/document/RoboticCleanerResponseDocument.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/document/RoboticCleanerResponseDocument.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/service/impl/CleanOilPatchServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/service/impl/CleanOilPatchServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/controller/RoboticCleanerControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/controller/RoboticCleanerControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/test-0.1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/test-0.1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/controller.RoboticCleanerControllerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/controller.RoboticCleanerControllerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/service.CleanOilPatchServiceImplTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/service.CleanOilPatchServiceImplTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/controller.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/controller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-controller.RoboticCleanerControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-controller.RoboticCleanerControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-service.CleanOilPatchServiceImplTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-service.CleanOilPatchServiceImplTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/controller/RoboticCleanerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/controller/RoboticCleanerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/document/RoboticCleanerRequestDocument.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/document/RoboticCleanerRequestDocument.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/document/RoboticCleanerResponseDocument.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/document/RoboticCleanerResponseDocument.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/service/impl/CleanOilPatchServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/service/impl/CleanOilPatchServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/controller/RoboticCleanerControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/controller/RoboticCleanerControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/service/CleanOilPatchServiceImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/service/CleanOilPatchServiceImplTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/controller/RoboticCleanerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/RoboticCleanerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/document/RoboticCleanerRequestDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/document/RoboticCleanerRequestDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/document/RoboticCleanerResponseDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/document/RoboticCleanerResponseDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/impl/CleanOilPatchServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/impl/CleanOilPatchServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/controller/RoboticCleanerControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/controller/RoboticCleanerControllerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -57,27 +100,27 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="23" />
-          <entry key="gradle" value="46" />
-          <entry key="java" value="2759" />
+          <entry key="gradle" value="94" />
+          <entry key="java" value="3571" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="46" />
-          <entry key="JAVA" value="2759" />
+          <entry key="Groovy" value="94" />
+          <entry key="JAVA" value="3571" />
           <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="8" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -87,17 +130,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+            <state relative-caret-position="480">
+              <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/controller/RoboticCleanerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="498">
+              <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,8 +151,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/controller/RoboticCleanerControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="525">
+              <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,11 +160,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/service/CleanOilPatchServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2070">
-              <caret line="138" column="91" selection-start-line="138" selection-start-column="91" selection-end-line="138" selection-end-column="91" />
+            <state relative-caret-position="-292">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#248#249#0" expanded="true" />
@@ -134,8 +177,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/service/impl/CleanOilPatchServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1111">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="640">
+              <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/service/CleanOilPatchService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,7 +202,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/document/RoboticCleanerResponseDocument.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,8 +213,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/document/RoboticCleanerRequestDocument.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -427,9 +482,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6236095159000" />
+        <entry key="$PROJECT_DIR$" value="6236108280000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="3999632115" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1747102585" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="736222066" />
       </map>
@@ -568,14 +623,14 @@
         <option value="$PROJECT_DIR$/src/main/java/document/RobotRequestDocument.java" />
         <option value="$PROJECT_DIR$/src/main/java/hello/RoboticCleanerController.java" />
         <option value="$PROJECT_DIR$/src/main/java/Application.java" />
-        <option value="$PROJECT_DIR$/src/main/java/document/RoboticCleanerRequestDocument.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/exception/RobotOutBoundaryException.java" />
+        <option value="$PROJECT_DIR$/src/test/java/service/CleanOilPatchServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/impl/CleanOilPatchServiceImpl.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/test/java/controller/RoboticCleanerControllerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/document/RoboticCleanerResponseDocument.java" />
-        <option value="$PROJECT_DIR$/src/main/java/service/exception/RobotOutBoundaryException.java" />
-        <option value="$PROJECT_DIR$/src/main/java/service/impl/CleanOilPatchServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/test/java/service/CleanOilPatchServiceImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/controller/RoboticCleanerController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/document/RoboticCleanerRequestDocument.java" />
+        <option value="$PROJECT_DIR$/src/main/java/document/RoboticCleanerResponseDocument.java" />
       </list>
     </option>
   </component>
@@ -611,22 +666,22 @@
               <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springboot-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="springboot-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -635,7 +690,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559062754173" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559069633267" />
     <property name="last_opened_file_path" value="E:/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -703,34 +758,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CleanOilPatchServiceImplTest.test_robot_outside_boundary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RoboticCleanerControllerTest.success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="service.*" />
+          <option name="PATTERN" value="controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="service" />
-      <option name="MAIN_CLASS_NAME" value="service.CleanOilPatchServiceImplTest" />
-      <option name="METHOD_NAME" value="test_robot_outside_boundary" />
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.RoboticCleanerControllerTest" />
+      <option name="METHOD_NAME" value="success" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CleanOilPatchServiceImplTest.test_valid_task" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RoboticCleanerControllerTest.test_invalid_request" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="service.*" />
+          <option name="PATTERN" value="controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="service" />
-      <option name="MAIN_CLASS_NAME" value="service.CleanOilPatchServiceImplTest" />
-      <option name="METHOD_NAME" value="test_valid_task" />
+      <option name="PACKAGE_NAME" value="controller" />
+      <option name="MAIN_CLASS_NAME" value="controller.RoboticCleanerControllerTest" />
+      <option name="METHOD_NAME" value="test_invalid_request" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -752,19 +807,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CleanOilPatchServiceImplTest.test_valid_task" />
-      <item itemvalue="JUnit.CleanOilPatchServiceImplTest.test_robot_outside_boundary" />
       <item itemvalue="JUnit.CleanOilPatchServiceImplTest.should_throw_illegalArgumentException" />
       <item itemvalue="JUnit.CleanOilPatchServiceImplTest.test_revisit_oil_patch" />
       <item itemvalue="Application.Application" />
+      <item itemvalue="JUnit.RoboticCleanerControllerTest.success" />
+      <item itemvalue="JUnit.RoboticCleanerControllerTest.test_invalid_request" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.RoboticCleanerControllerTest.test_invalid_request" />
+        <item itemvalue="JUnit.RoboticCleanerControllerTest.success" />
         <item itemvalue="JUnit.CleanOilPatchServiceImplTest.test_revisit_oil_patch" />
         <item itemvalue="JUnit.CleanOilPatchServiceImplTest.should_throw_illegalArgumentException" />
-        <item itemvalue="JUnit.CleanOilPatchServiceImplTest.test_robot_outside_boundary" />
-        <item itemvalue="JUnit.CleanOilPatchServiceImplTest.test_valid_task" />
       </list>
     </recent_temporary>
   </component>
@@ -782,24 +837,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CleanOilPatchServiceImplTest_clean - 2019.05.28 at 15h 38m 31s.xml">
-      <configuration name="CleanOilPatchServiceImplTest.clean" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RoboticCleanerControllerTest_success - 2019.05.28 at 15h 38m 38s.xml">
-      <configuration name="RoboticCleanerControllerTest.success" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RoboticCleanerControllerTest_success - 2019.05.28 at 15h 38m 54s.xml">
-      <configuration name="RoboticCleanerControllerTest.success" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CleanOilPatchServiceImplTest_test_valid_task - 2019.05.28 at 17h 21m 49s.xml">
-      <configuration name="CleanOilPatchServiceImplTest.test_valid_task" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CleanOilPatchServiceImplTest_test_valid_task - 2019.05.28 at 17h 25m 24s.xml">
-      <configuration name="CleanOilPatchServiceImplTest.test_valid_task" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CleanOilPatchServiceImplTest_test_robot_outside_boundary - 2019.05.28 at 17h 32m 12s.xml">
-      <configuration name="CleanOilPatchServiceImplTest.test_robot_outside_boundary" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CleanOilPatchServiceImplTest_should_throw_illegalArgumentException - 2019.05.28 at 17h 38m 33s.xml">
       <configuration name="CleanOilPatchServiceImplTest.should_throw_illegalArgumentException" configurationId="JUnit" />
     </history-entry>
@@ -812,12 +849,30 @@
     <history-entry file="CleanOilPatchServiceImplTest_test_revisit_oil_patch - 2019.05.28 at 17h 43m 30s.xml">
       <configuration name="CleanOilPatchServiceImplTest.test_revisit_oil_patch" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RoboticCleanerControllerTest_success - 2019.05.28 at 19h 31m 06s.xml">
+      <configuration name="RoboticCleanerControllerTest.success" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RoboticCleanerControllerTest_test_invalid_request - 2019.05.28 at 19h 33m 43s.xml">
+      <configuration name="RoboticCleanerControllerTest.test_invalid_request" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RoboticCleanerControllerTest_test_invalid_request - 2019.05.28 at 19h 36m 36s.xml">
+      <configuration name="RoboticCleanerControllerTest.test_invalid_request" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RoboticCleanerControllerTest_test_invalid_request - 2019.05.28 at 19h 36m 58s.xml">
+      <configuration name="RoboticCleanerControllerTest.test_invalid_request" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RoboticCleanerControllerTest_test_invalid_request - 2019.05.28 at 19h 43m 28s.xml">
+      <configuration name="RoboticCleanerControllerTest.test_invalid_request" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RoboticCleanerControllerTest_test_invalid_request - 2019.05.28 at 19h 43m 45s.xml">
+      <configuration name="RoboticCleanerControllerTest.test_invalid_request" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22310969" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22310969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -826,12 +881,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23069307" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3059406" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39405942" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.36633664" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1990099" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23960397" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32897604" />
@@ -854,10 +909,65 @@
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/exception/RobotOutBoundaryException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="49" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-annotations/1.5.0/5e064962d951e002087f6f549a88862e71e9cd52/swagger-annotations-1.5.0-sources.jar!/io/swagger/annotations/ApiResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/CleanOilPatchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/impl/CleanOilPatchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="47" column="26" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/controller/RoboticCleanerControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="525">
+          <caret line="50" column="50" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/controller/RoboticCleanerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -878,17 +988,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/document/RoboticCleanerRequestDocument.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -898,38 +1001,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/document/RoboticCleanerResponseDocument.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/service/exception/RobotOutBoundaryException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/service/CleanOilPatchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/service/impl/CleanOilPatchServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1111">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -938,22 +1010,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/service/CleanOilPatchServiceImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="138" column="91" selection-start-line="138" selection-start-column="91" selection-end-line="138" selection-end-column="91" />
+        <state relative-caret-position="-292">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#249#0" expanded="true" />
             <element signature="e#307#308#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/controller/RoboticCleanerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
