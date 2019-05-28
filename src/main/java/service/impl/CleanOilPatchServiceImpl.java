@@ -22,6 +22,13 @@ public class CleanOilPatchServiceImpl implements CleanOilPatchService {
         int oilPatchesCleaned = 0;
         HashMap<Integer, ArrayList<Integer>> oilPatchMap = createOilPatchMap(oilPatches);
 
+        if(max_x_axis <=0 || max_y_axis <= 0 || x_axis < 0 || y_axis < 0){
+            throw new IllegalArgumentException("Invalid coordinates passed!");
+        }
+        if(x_axis >= max_x_axis || y_axis >= max_y_axis){
+            throw new RobotOutBoundaryException("Robot starting position outside boundary!");
+        }
+
         for (int i = 0; i < navigationInstructions.length(); i++){
             if(navigationInstructions.charAt(i) == 'N'){
                 y_axis++;
