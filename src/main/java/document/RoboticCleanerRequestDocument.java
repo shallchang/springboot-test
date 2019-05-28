@@ -3,18 +3,26 @@ package document;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
 
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
 import java.util.ArrayList;
 
 @Data
 @RequiredArgsConstructor
 public class RoboticCleanerRequestDocument {
 
-//    private ArrayList<Integer> areaSize;
-//
-//    private ArrayList<Integer> startingPosition;
-//
-//    private ArrayList<ArrayList<Integer>> oilPatches;
+    @NotNull
+    @Size(min = 2, max = 2)
+    private ArrayList<Integer> areaSize;
 
-    private int navigationInstructions;
+    @NotNull
+    @Size(min = 2, max = 2)
+    private ArrayList<Integer> startingPosition;
+
+    @NotNull
+    private ArrayList<ArrayList<Integer>> oilPatches;
+
+    @NotNull
+    private String navigationInstructions;
 
 }

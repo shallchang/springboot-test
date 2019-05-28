@@ -35,4 +35,6 @@ dependencies {
     annotationProcessor("org.projectlombok:lombok:${lombokVersion}")
     testAnnotationProcessor("org.projectlombok:lombok:${lombokVersion}")
     testCompile("junit:junit")
+    testCompile("org.springframework.boot:spring-boot-starter-test")
+    testCompile('org.mockito:mockito-core:2.7.22')
 }
